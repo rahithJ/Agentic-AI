@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "chat_bot":"./src/langgraphagenticai/graph/graph_builder.py:graph"
+    },
+    "env":"./.env"
+}
